@@ -4,6 +4,7 @@
 
 ## Reinforcement Learning
 
+* [Problem Set Up](reinforcement-learning/problem-set-up.md)
 * [Policy Gradient](reinforcement-learning/policy-gradient.md)
 * [Q-Learning](reinforcement-learning/q-learning.md)
 
